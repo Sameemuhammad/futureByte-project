@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #26082a;
+    height: 70px;
+    padding: 10px 50px;
+}
+button.navbar-toggler{
+    color: white;
+    outline: none;
+}
