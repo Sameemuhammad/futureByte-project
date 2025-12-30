@@ -55,3 +55,21 @@ button.navbar-toggler{
     font-weight: bold;
 
 }
+#navlinks{
+    color: black;
+}
+.text1{
+    font-size: 18px;
+    font-weight: 600;
+}
+.text2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.cal-img{
+    background-color: white;
+    border-radius: 3px;
+}
+.span1{
+    color: white;
+}
