@@ -73,3 +73,20 @@ button.navbar-toggler{
 .span1{
     color: white;
 }
+.buttons a{
+    color: white;
+    text-decoration: none;
+}
+.buttons{
+    width: 155px;
+    /* color: white; */
+}
+.paragraph{
+    color: white;
+}
+.form-labal{
+    color: white;
+}
+.h1-contact{
+    color: white;
+}
